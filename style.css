@@ -1,0 +1,17 @@
+p {
+    color: green;
+    font-size: 72px;
+}
+
+div {
+    color: red;
+    background-color: lightblue;
+    border-width: 5x;
+    border-color: black;
+    border-radius: 30px;
+    border-style: dashed;
+
+}
+body {
+    background-color: pink;
+}
